@@ -35,7 +35,7 @@ https://github.com/ld2005/Tuan-1/edit/main/README.md
 
 ## Hình ảnh minh chứng
 Xem tại thư mục:  
-📁 `week1/cantunsee-result.png`
+
 
 ---
 
